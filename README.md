@@ -18,3 +18,4 @@ El curso incluye:
 El curso sigue un flujo de resolución real de un problema de predicción de ingreso de peliculas con la base de datos de IMDB con 1000+ ejemplos de entrenamiento.
 
 
+[machine-learning-platzi](01 La importancia de definir tu problema.ipynb)
