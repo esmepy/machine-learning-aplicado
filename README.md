@@ -1,5 +1,5 @@
 # machine-learning-platzi
-Este repositorio contiene los notebooks del curso **"Machine Learning Aplicado con Python"** que dicté en platzi.
+Este repositorio contiene los notebooks del curso **"Machine Learning Aplicado con Python"** por Juan Pablo Morales
 
 El objetivo de este curso es entregar los skills prácticos necesarios para implementar algoritmos de ML en un contexto profesional. 
 
@@ -16,3 +16,5 @@ El curso incluye:
 - Algoritmos de Machine Learning: Regresión Lineal, Regresión Lasso, KNN, Random Forest, Gradient Boosting Trees.
 
 El curso sigue un flujo de resolución real de un problema de predicción de ingreso de peliculas con la base de datos de IMDB con 1000+ ejemplos de entrenamiento.
+
+
