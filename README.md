@@ -17,5 +17,11 @@ El curso incluye:
 
 El curso sigue un flujo de resolución real de un problema de predicción de ingreso de peliculas con la base de datos de IMDB con 1000+ ejemplos de entrenamiento.
 
+## Cómo definir un problema de Machine Learning
 
-[machine-learning-platzi](01 La importancia de definir tu problema.ipynb)
+### [1 La importancia de definir el problema](01%20La%20importancia%20de%20definir%20tu%20problema.ipynb)
+
+### [2 Predecir el ingreso de películas](02%20Predecir%20el%20ingreso%20de%20películas%20con%20IMDB.ipynb)
+
+
+##
