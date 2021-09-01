@@ -25,26 +25,26 @@ El curso sigue un flujo de resolución real de un problema de predicción de ing
 
 ### [3.- Predecir el ingreso de películas de IMDB](02%20Predecir%20el%20ingreso%20de%20películas%20con%20IMDB.ipynb)
 
-### 4.- Terminología de Machine Learning
+### [4.- Terminología de Machine Learning](03%20Un%20poco%20de%20terminología%20de%20ML.ipynb)
 ### 5.- Materiales del curso: Notebooks de Jupyter
 
 
 ## El ciclo de ingeniería de Machine Learning
 
-### 6.- El ciclo de Machine Learning
+### [6.- El ciclo de Machine Learning](05%20Ciclo%20de%20trabajo%20del%20Machine%20Learning.ipynb)
 
 
 ## Montar un ambiente de trabajo Pydata
 
-### 7 Configuración del ambiente de trabajo con Google Collab
-### 8 Qué es y cómo se utiliza Numpy
-### 9 Arrays en Numpy
-### 10 Operaciones aritméticas en Numpy
+### [7.- Configuración del ambiente de trabajo con Google Collab](06%20Configuración%20del%20ambiente%20de%20trabajo.ipynb)
+### [8.- Qué es y cómo se utiliza Numpy](07%20Qué%20es%20y%20cómo%20se%20utiliza%20Numpy.ipynb)
+### 9.- Arrays en Numpy
+### 10.- Operaciones aritméticas en Numpy
 
 
 ## Preparación de los datos
 
-### 11 Cargar los datos necesarios para el proyecto
+### [11.- Cargar los datos necesarios para el proyecto](09%20Preparación%20de%20los%20datos.ipynb)
 ### 12 Inspección de los tipos de datos
 ### 13 Inspección cuantitativa y de salud de los datos
 ### 14 Limpiar los datos
