@@ -17,17 +17,6 @@ El curso incluye:
 
 El curso sigue un flujo de resolución real de un problema de predicción de ingreso de peliculas con la base de datos de IMDB con 1000+ ejemplos de entrenamiento.
 
-**Notas**
-
-Scikit-learn es probablemente la librería más útil para Machine Learning en Python, es de código abierto y es reutilizable en varios contextos, fomentando el uso académico y comercial. Proporciona una gama de algoritmos de aprendizaje supervisados y no supervisados en Python.
-Este librería está construida sobre SciPy (Scientific Python) e incluye las siguientes librerías o paquetes:
-
-- NumPy: librería de matriz n-dimensional base
-- Pandas: estructura de datos y análisis
-- SciPy: librería fundamental para la informática científica
-- Matplotlib: trazado completo 2D
-- Ipython: consola interactiva mejorada
-- SymPy: matemática simbólica
 ---
 
 ## Cómo definir un problema de Machine Learning
