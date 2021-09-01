@@ -52,6 +52,48 @@ El campo de aplicación práctica depende de la imaginación y de los datos que 
 - Detectar intrusiones en una red de comunicaciones de datos.
 
 - Decidir cuál es la mejor hora para llamar a un cliente.
+-
 ---
+## 11.-
+
+[Link a los datasets](https://github.com/JuanPabloMF/datasets-platzi-course)
+
+Si no les ha funcionado en Google Colaboraty ya que el enlace de git es la página, deben cargar el link del raw (archivo bruto)
+
+Este es el link que obtendríamos al navegar por git :
+https://github.com/JuanPabloMF/datasets-platzi-course/blob/master/datasets/peliculas.csv
+
+Hay dos opciones:
+
+1. Poner un `?raw=true` al final de la url: https://github.com/JuanPabloMF/datasets-platzi-course/blob/master/datasets/peliculas.csv?raw=true
+
+```python
+import pandas as pd
+
+movies = pd.read_csv('https://github.com/JuanPabloMF/datasets-platzi-course/blob/master/datasets/peliculas.csv?raw=true',encoding='utf-8')
+```
+
+1. Reemplazar la palabra blob por raw
+https://github.com/JuanPabloMF/datasets-platzi-course/raw/master/datasets/peliculas.csv
+
+```python
+import pandas as pd
+
+movies = pd.read_csv('https://github.com/JuanPabloMF/datasets-platzi-course/raw/master/datasets/peliculas.csv',encoding='utf-8')
+```
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 12.-
