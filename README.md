@@ -17,11 +17,75 @@ El curso incluye:
 
 El curso sigue un flujo de resolución real de un problema de predicción de ingreso de peliculas con la base de datos de IMDB con 1000+ ejemplos de entrenamiento.
 
+**Notas**
+
+Scikit-learn es probablemente la librería más útil para Machine Learning en Python, es de código abierto y es reutilizable en varios contextos, fomentando el uso académico y comercial. Proporciona una gama de algoritmos de aprendizaje supervisados y no supervisados en Python.
+Este librería está construida sobre SciPy (Scientific Python) e incluye las siguientes librerías o paquetes:
+
+- NumPy: librería de matriz n-dimensional base
+- Pandas: estructura de datos y análisis
+- SciPy: librería fundamental para la informática científica
+- Matplotlib: trazado completo 2D
+- Ipython: consola interactiva mejorada
+- SymPy: matemática simbólica
+---
+
 ## Cómo definir un problema de Machine Learning
 
-### [1 La importancia de definir el problema](01%20La%20importancia%20de%20definir%20tu%20problema.ipynb)
+### [2.- La importancia de definir el problema](01%20La%20importancia%20de%20definir%20tu%20problema.ipynb)
 
-### [2 Predecir el ingreso de películas](02%20Predecir%20el%20ingreso%20de%20películas%20con%20IMDB.ipynb)
+### [3.- Predecir el ingreso de películas de IMDB](02%20Predecir%20el%20ingreso%20de%20películas%20con%20IMDB.ipynb)
+
+### 4.- Terminología de Machine Learning
+### 5.- Materiales del curso: Notebooks de Jupyter
 
 
-##
+## El ciclo de ingeniería de Machine Learning
+
+### 6.- El ciclo de Machine Learning
+
+
+## Montar un ambiente de trabajo Pydata
+
+### 7 Configuración del ambiente de trabajo con Google Collab
+### 8 Qué es y cómo se utiliza Numpy
+### 9 Arrays en Numpy
+### 10 Operaciones aritméticas en Numpy
+
+
+## Preparación de los datos
+
+### 11 Cargar los datos necesarios para el proyecto
+### 12 Inspección de los tipos de datos
+### 13 Inspección cuantitativa y de salud de los datos
+### 14 Limpiar los datos
+### 15 Manejo de datos faltantes
+
+
+## Modelación y evaluación
+
+### 16 El objeto estimador de Scikit-Learn
+### 17 Implementar un modelo de regresión (Lasso)
+### 18 Ajustando Modelos de Machine Learning, Underfitting y Overfitting
+### 19 Evaluando el modelo
+
+
+## Feature Engineering
+
+### 20 Feedback del modelamiento
+### 21 Análisis exploratorio
+### 22 Continuando con el análisis exploratorio
+### 23 Creación de features
+### 24 Creando más features
+### 25 Selección de features y la maldición de la dimensionalidad
+
+
+## Modelos y Evaluación más avanzada
+
+### 26 Cross Validation 
+### 27 Selección de modelos
+### 28 Curvas de aprendizaje
+### 29 Introducción a Ensembles y Árboles de Decisión
+### 30 Random Forest y Gradient Boosting Trees
+### 31 Optimización de hiperparámetros
+### 32 Conclusiones del curso
